@@ -1,0 +1,10 @@
+{
+  "name": "AshArrow — MBBS Workspace",
+  "short_name": "AshArrow",
+  "description": "A focused learning workspace for MBBS students.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f0",
+  "theme_color": "#f4f4f0",
+  "icons": []
+}
